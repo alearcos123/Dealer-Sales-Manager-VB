@@ -1,0 +1,11 @@
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\bin\Debug\Rembrandt Project.exe.config
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\bin\Debug\Rembrandt Project.exe
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\bin\Debug\Rembrandt Project.pdb
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\bin\Debug\Rembrandt Project.xml
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\obj\Debug\Rembrandt_Project.frmMain.resources
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\obj\Debug\Rembrandt_Project.Resources.resources
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\obj\Debug\Rembrandt Project.vbproj.GenerateResource.Cache
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\obj\Debug\Rembrandt Project.exe
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\obj\Debug\Rembrandt Project.xml
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\obj\Debug\Rembrandt Project.pdb
+C:\Work\Yuliet\VB\VB2015\Chap08\Rembrandt Solution\Rembrandt Project\obj\Debug\Rembrandt Project.vbprojResolveAssemblyReference.cache
